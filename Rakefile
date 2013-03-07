@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "leandots"
   gem.homepage = "http://github.com/j15e/leandots"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{ Lean dotfiles rake task.}
+  gem.description = %Q{ Link, copy & setup your dotfiles with a rake task. }
   gem.email = "jeanphilippe.doyle@hooktstudios.com"
   gem.authors = ["Jean-Philippe Doyle"]
   # dependencies defined in Gemfile
