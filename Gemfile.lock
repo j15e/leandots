@@ -28,10 +28,6 @@ GEM
     shoulda-matchers (1.4.2)
       activesupport (>= 3.0.0)
       bourne (~> 1.1.2)
-    simplecov (0.7.1)
-      multi_json (~> 1.0)
-      simplecov-html (~> 0.7.1)
-    simplecov-html (0.7.1)
 
 PLATFORMS
   ruby
@@ -42,4 +38,3 @@ DEPENDENCIES
   rake
   rdoc (~> 3.12)
   shoulda
-  simplecov
